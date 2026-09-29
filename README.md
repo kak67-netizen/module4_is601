@@ -1,4 +1,4 @@
-# Module 4 Professional Calculator
+# Module 4 Calculator
 
 This project is a professional command-line calculator application written in Python.
 
